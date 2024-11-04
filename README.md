@@ -1,4 +1,8 @@
-# Project-1-ReactJSPractise
-This is the beginner react js practise project which incluldes html, css, external fonts library and static images.
-![Project 1 Screenshot](https://github.com/user-attachments/assets/39c214b6-424f-422f-bd14-d2bdb9567333)
+# React + Vite
 
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
